@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "Fit Force (fitforce.db)",
+      "driver": "SQLite",
+      "database": "${workspaceFolder}/artifacts/fit-force/server/fitforce.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
