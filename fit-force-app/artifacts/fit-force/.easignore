@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+.git/
+.replit-artifact/
+server/uploads/
+server/fitforce.db
+server/fitforce.db-wal
+server/fitforce.db-shm
+*.zip
+*.tar.gz
+android/
+ios/
+dist/
+web-build/

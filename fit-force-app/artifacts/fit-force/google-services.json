@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670927761028",
+    "project_id": "fit-force-86",
+    "storage_bucket": "fit-force-86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670927761028:android:0073831fe2941566835cd1",
+        "android_client_info": {
+          "package_name": "com.fitforce.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_KdK63R7P3KidAStoonITo15dA94MWVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
